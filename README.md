@@ -1,2 +1,2 @@
-# list-rtn
- multplewebpages
+# Picnic spots of Konkan
+ The Picnic Spots of Konkan project is a web or mobile application that provides detailed information about the best picnic spots in the Konkan region of India. The Konkan coast, known for its stunning beaches, lush greenery, and serene backwaters, is a popular destination for nature lovers and travelers. This project aims to create a comprehensive guide for users to explore and plan their trips to Konkan's top picnic spots.
